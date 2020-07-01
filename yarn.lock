@@ -6831,10 +6831,10 @@ tagged-template-noop@^2.1.1:
   resolved "https://registry.npmjs.org/tagged-template-noop/-/tagged-template-noop-2.1.1.tgz#0d215fd9eec557290f41838a22116a8d4ce606dd"
   integrity sha512-diZ004cBHKVueqSr5p+/EPZhofCBRW7w7zZL71FcK8x+209BbMw77ICrP9AWXpVjPyyyIqRYYFAM4Wjk2HNWQg==
 
-tail@^2.0.3:
-  version "2.0.3"
-  resolved "https://registry.npmjs.org/tail/-/tail-2.0.3.tgz#37567adc4624a70b35f1d146c3376fa3d6ef7c04"
-  integrity sha512-s9NOGkLqqiDEtBttQZI7acLS8ycYK5sTlDwNjGnpXG9c8AWj0cfAtwEIzo/hVRMMiC5EYz+bXaJWC1u1u0GPpQ==
+tail@^2.0.4:
+  version "2.0.4"
+  resolved "https://registry.npmjs.org/tail/-/tail-2.0.4.tgz#4824de583004df17606d04854aa3cc3491b17010"
+  integrity sha512-xHkZdNWIzO++g+V/rHGqVoHd2LRxz+8t8bj6FGelfb8FHBjg5yjkX7Su/8sQSBo5alIspYkRp/fU0A2SM5h+5A==
 
 tar@^6.0.1:
   version "6.0.1"

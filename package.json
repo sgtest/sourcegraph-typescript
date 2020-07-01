@@ -76,7 +76,7 @@
     "source-map": "^0.7.3",
     "source-map-support": "^0.5.16",
     "tagged-template-noop": "^2.1.1",
-    "tail": "^2.0.3",
+    "tail": "^2.0.4",
     "tar": "^6.0.1",
     "type-is": "^1.6.18",
     "typescript": "^3.8.3",
